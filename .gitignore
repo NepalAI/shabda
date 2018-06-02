@@ -39,3 +39,7 @@ tmtagsHistory
 *.sublime-project
 *.sublime-workspace
 .bundle
+
+# Sublime #
+#######################
+.idea
